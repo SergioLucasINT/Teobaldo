@@ -1,0 +1,6 @@
+GET https://e71j39.sse.codesandbox.io/teobaldo
+
+###
+
+GET http://localhost:3000/teobaldo
+
